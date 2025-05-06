@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    font-family: monospace;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    width: 100%;
+    height: 100vh;
+    max-width: 30rem;
+    background-color: #93A0C6;
+}
+
+.index{
+    background-color: #A5AED6;
+    width: 100%;
+    height: 100rem;
+}

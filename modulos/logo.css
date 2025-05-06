@@ -1,0 +1,17 @@
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    padding: 2rem;
+
+}
+.logo img {
+    width: 6rem;
+    border: 0.5rem;
+    border: 1px solid black;
+}
+.logo span{
+    color: black;
+    font-size: 2rem;
+}

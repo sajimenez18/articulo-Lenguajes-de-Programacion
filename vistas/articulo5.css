@@ -1,0 +1,33 @@
+.contenido5{
+    background-color: rgb(242, 255, 122);
+    width: 150rem;
+    height: 120rem;
+    
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    align-items: center;
+    
+    font-family:fantasy;
+    font-size: 1.5rem;
+    gap: 8px;
+    
+    }
+    .titulo5{
+        font-size: 5rem;
+        background-color: rgb(253, 210, 90);
+    }
+    .jv {
+        width: 7rem;
+        height: 7rem;
+        margin-top: 5px;
+    }
+    .subtitulo5{
+        background-color:rgb(253, 210, 90);
+    }
+    .jav {
+        width: 15rem;
+        height: 15rem;
+    
+        margin: 2rem;
+    }

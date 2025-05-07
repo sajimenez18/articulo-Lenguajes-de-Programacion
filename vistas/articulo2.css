@@ -1,1 +1,33 @@
-/*/
+.contenido2 { 
+    background-color: rgb(118, 166, 255);
+    width: 150rem;
+    height: 120rem;
+    
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    align-items: center;
+    
+    font-family:fantasy;
+    font-size: 1.5rem;
+    gap: 8px;
+    
+    }
+    .titulo2{
+        font-size: 5rem;
+        background-color: rgb(165, 229, 248);
+    }
+    .cs {
+        width: 6rem;
+        height: 8rem;
+        margin-top: 5px;
+    }
+    .subtitulo2{
+        background-color: rgb(165, 229, 248);
+    }
+    .csss {
+        width: 15rem;
+        height: 15rem;
+    
+        margin: 2rem;
+    }

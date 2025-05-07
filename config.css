@@ -16,8 +16,7 @@ main {
 
 .menu {
     width: 100%;
-    height: 100vh;
-    max-width: 30rem;
+    height: 120rem;
     background-color: #93A0C6;
 }
 
